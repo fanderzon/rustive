@@ -1,0 +1,12 @@
+[package]
+name = "rustive"
+version = "0.1.0"
+authors = ["Fredrik Andersson <f.anderzon@gmail.com>"]
+description = "A reactive UI library for Rust"
+documentation = "https://github.com/fanderzon/rustive"
+homepage = "https://github.com/fanderzon/rustive"
+repository = "https://github.com/fanderzon/rustive"
+
+license = "MIT"
+
+[dependencies]
